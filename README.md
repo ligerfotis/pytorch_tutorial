@@ -1,5 +1,7 @@
 ### PyTorch Tutorial Online
 
+This repository contains a comprehensive tutorial designed to introduce you to the fundamental concepts and usage of the PyTorch library. Tailored for students who have completed an introductory course in machine learning, this tutorial begins with the basics and gradually transitions to practical applications, thereby showcasing the potential of PyTorch.
+
 I. Tensor Basics in PyTorch
 
 * Introduction to Tensors
