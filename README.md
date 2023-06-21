@@ -15,25 +15,21 @@ I. Tensor Basics in PyTorch
     * Understanding Autograd
     * Using Autograd in PyTorch
 
-II. Building Neural Networks in PyTorch
+II. Building & Training Neural Networks in PyTorch
 
-* Neural Network Basics
-    * Brief Recap of the Perceptron and the Multilayer Perceptron (MLP)
-    * Neural Network Architecture in PyTorch
 * Defining a Neural Network in PyTorch
     * Layers and Activation Functions
     * Constructing the Forward Pass
-* Using Predefined Networks in torchvision.models
-* Customizing Predefined Networks
-
-III. Training Neural Networks in PyTorch
-
+* Training Neural Networks
+    * Preparing the Dataset
+    * Preparing the Model
+    * Training the Model
+    * Evaluating the Model
 * Defining a Loss Function
 * Backpropagation and Optimizers in PyTorch
 * Setting up a Training Loop
-* Implementing Validation and Early Stopping
 
-V. Practical PyTorch Applications
+III. Practical PyTorch Applications
 
 * Image Classification with a Fully-Connected Network (FCN)
 * GPU Acceleration with PyTorch and CUDA 
